@@ -12,9 +12,11 @@ class bunga:
 b1 = bunga("mawar", "merah", 15000)
 b2 = bunga("matahari", "oren", 10000)
 b3 = bunga("anggrek", "unggu", 20000)
+b4 = bunga("anggrek", "biru", 2000)
     
 b1.info()
 b2.info()
 b3.info()
+b4.info()
 
 
