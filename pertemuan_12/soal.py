@@ -72,14 +72,3 @@ print("\n[DATA] Gudang Ujung (Leaf Nodes):", ", ".join(leaf_nodes))
 
 print("======================================")
 print("Audit Selesai!")
-
-    
-
-
-
-
-
-
-
-        
-
